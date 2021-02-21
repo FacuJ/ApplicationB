@@ -3,4 +3,5 @@
     <string name="notification_message">Message from notification</string>
     <string name="extra_info_from_notification">Extra info</string>
     <string name="data_not_retrieved">Data could not be retrieved from application A</string>
+    <string name="retrieve_data_from_A">Get notifications data</string>
 </resources>
