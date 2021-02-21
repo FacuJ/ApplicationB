@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application B</string>
+    <string name="notification_message">Message from notification</string>
+    <string name="extra_info_from_notification">Extra info</string>
+</resources>
