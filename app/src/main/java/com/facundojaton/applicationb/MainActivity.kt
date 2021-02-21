@@ -52,7 +52,6 @@ class MainActivity : AppCompatActivity() {
         try {
             dataRetrievingRegister.launch(getDataIntent)
         } catch (exception: Exception) {
-            dataNotRetrievedError()
         }
     }
 
